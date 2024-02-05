@@ -1,0 +1,17 @@
+/* master css 1 Maikol*/
+
+body {
+    background: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/10/27/09/matrix-code.jpg);
+}
+
+div {
+    background: rgba(50, 100, 24, 0.8);
+}
+
+span {
+    background-color: #0000;
+}
+
+h1 {
+    color: #FFFF;
+}
