@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: blue ;
+    text-align: center;
+    width: 100%;
+    height: 120px;
+}
+.menu-laterale{
+    background-color: aqua;
+    width: 100%;
+    
+}
+.menu-laterale button{
+    margin-top: 2%;
+    text-align: center;
+    
+}
+ ul {
+    list-style: none;
+    text-decoration: solid;
+    
+}
+img{
+    width: 300px;
+}
